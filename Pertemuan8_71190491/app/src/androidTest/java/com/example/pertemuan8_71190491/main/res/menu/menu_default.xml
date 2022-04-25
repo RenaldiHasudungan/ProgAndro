@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_camera"
+        android:icon="@drawable/ic_camera"
+        android:title="Camera"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/menu_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Profile"
+        android:width="40dp"
+        android:height="40dp"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/menu_settings"
+        android:icon="@drawable/ic_setting"
+        android:title="Settings"
+        android:width="40dp"
+        android:height="40dp"
+        app:showAsAction="always"/>
+</menu>
