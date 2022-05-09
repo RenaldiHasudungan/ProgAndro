@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pertemuan9_71190491</string>
+    <string-array name="list_bahasa">
+        <item>English</item>
+        <item>Javanese</item>
+        <item>Japanese</item>
+        <item>Tagalog</item>
+    </string-array>
+    <string-array name="list_ukuran">
+        <item>12</item>
+        <item>14</item>
+        <item>16</item>
+        <item>18</item>
+    </string-array>
+</resources>
